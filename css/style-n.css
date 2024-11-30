@@ -1,0 +1,153 @@
+@import url("https://use.typekit.net/wtq1ljy.css");
+ @import url("https://use.typekit.net/wtq1ljy.css");
+  @import url("https://use.typekit.net/wtq1ljy.css");
+  @import url("https://use.typekit.net/wtq1ljy.css");
+
+:root{
+	var--color-morado: #453E64;
+}
+
+body{
+	font-family: "haboro-soft", sans-serif;
+	background-color:#F1F1DB;
+}
+h1,h3,h4,h5,h6{
+	font-family: "mencken-std", sans-serif;
+}
+
+h1{
+	color: #453E64;
+	text-align: center;
+}
+header{
+	background-color:#F1F1DB;
+	padding-top: 10px;
+	font-size: 14px;
+	
+}
+
+.navbar-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 100px 0;
+	border-radius: 30px;
+	margin: 20px auto;
+	max-width: 1000px;
+  }
+.logo-container{
+	max-width: 2000px;
+}
+ .logo {
+	max-height: 100px;
+	
+}
+  .navbar {
+	display: flex;
+	background-color: #453E64;
+	border-radius: 30px;
+	padding: 10px 100px;
+	align-items: center;
+  }
+  
+  .navbar-nav {
+	display: flex;
+	gap: 20px;
+  }
+  
+  .nav-link {
+	font-size: 20px;
+	font-weight: bold;
+	color: #f8f8f8 !important;
+	text-decoration: none;
+	  margin-right: 20px;
+  }
+  
+  .nav-link:hover {
+	text-decoration: underline;
+  }
+
+.button-container {
+  width: 100%; 
+}
+
+.btn {
+  background-color: #453E64;
+  border: none;
+  border-radius: 50px;
+  margin-top: 20px;
+  color: #f5f0e1;
+  padding: 10px; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+	width:200px;
+}
+  
+.textodeinicio{
+	
+	text-align: center;
+	color:#453E64;
+	
+	font-size: 50px;
+	font-family: "mencken-std", sans-serif;
+
+} 
+#hero h2{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#hero{
+	padding: 20px;
+}
+
+#menurecetas{
+	margin-bottom:-40px;
+}
+
+#recetas{
+	padding:100px;
+}
+
+#recetas h4{
+	color: #453E64;
+	margin: 15px;
+	text-transform: uppercase;
+	font-size: 18px;
+	margin-bottom: 50px;
+}
+#mision{
+	text-align: center;
+}
+
+#vision{
+	text-align: center;
+}
+#servicios{
+	padding: 40px;
+}
+
+
+  footer {
+  background-color: #453E64;
+  color: #f5f0e1;
+padding: 30px;
+}
+
+footer i{
+	text-align: right;
+	width: 2px;
+	color: #fff;
+	margin-right: 3px;
+}
+
+footer h3{
+	font-size: 12px;
+	text-align: left;
+}
+
+
+   
+  
